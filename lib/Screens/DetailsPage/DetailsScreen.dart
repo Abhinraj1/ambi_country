@@ -61,7 +61,7 @@ class _DetailsScreenState extends State<DetailsScreen> {
                       }
                       String selectedCountryCurrency = snapshot.data!.Currency.toString().substring(1,
                             snapshot.data!.Currency!.length-1);
-                      print("SELECTEDCURRENCY UPDATE HERE ============= $selectedCountryCurrency");
+
 
 
                       return Column(
