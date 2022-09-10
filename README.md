@@ -1,14 +1,16 @@
-# ambi_country
 
-A new Flutter project.
+## Get Info About A Country
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- AutoComplete
+- Get Currency,Capital and Current Weather of Searched Country
+- Get Image Based on Weather Condition
+- Get Currency Exchange Rate In USD And Local Currency
 
-A few resources to get you started if this is your first Flutter project:
+
+## Images
+<img src="ReadmeImages/country1.jpg" width=25% height=25%>
+<img src="ReadmeImages/country2.jpg" width=25% height=25%>
 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
